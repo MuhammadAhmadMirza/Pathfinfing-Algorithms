@@ -2,6 +2,8 @@
 
 This project provides simple implementations of several graph traversal and pathfinding algorithms in Python. These algorithms are designed to find the shortest path between two points on a graph or grid.
 
+![Demo](src/assets/images/demo.gif)
+
 ## Algorithms Implemented
 1. **Depth First Search (DFS)**
 2. **Dijkstra's Algorithm**
