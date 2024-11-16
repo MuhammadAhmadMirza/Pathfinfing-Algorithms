@@ -10,6 +10,11 @@ Algorithms Implemented:
     5. Jump Point Search (JPS)
     6. Theta* Algorithm
 
+Features:
+    GUI for visualizing live search
+    Customizable path and start/end points
+    Customizable Grid Size
+
 Prerequisites
     Python 3.x
     Required libraries:

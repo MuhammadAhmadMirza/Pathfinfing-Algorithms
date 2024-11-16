@@ -1,1 +1,3 @@
 dist/
+modules/__pycache__/
+assets/__pycache__/
